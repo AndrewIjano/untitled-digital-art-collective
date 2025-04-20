@@ -1,5 +1,6 @@
-# the-matrix
-Tags: [[inspiration]]
+#inspiration
+
+# The Matrix
 
 ![matrix-banner](https://images.theconversation.com/files/440861/original/file-20220114-19-18wivp1.jpg)
 

@@ -1,5 +1,6 @@
-# hardware
-Tags: [[inspiration]]
+#inspiration  
+# Hardware
+
 
 ![hardware-banner](https://phoenixnap.com/glossary/wp-content/uploads/2022/09/what-is-hardware.jpg)
 

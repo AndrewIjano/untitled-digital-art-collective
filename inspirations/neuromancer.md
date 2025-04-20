@@ -1,5 +1,5 @@
-# neuromancer
-Tags: [[inspiration]]
+#inspiration
+# Neuromancer
 
 ![neuromancer-banner](https://i0.wp.com/quintacapa.com.br/wp-content/uploads/2019/01/neuromancer.jpg?resize=1440%2C900&ssl=1)
 
