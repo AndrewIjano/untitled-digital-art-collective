@@ -1,6 +1,6 @@
 # untitled-digital-art-collective
 
-![[untitled-digital-art-collective-image.png]]
+![](./assets/untitled-digital-art-collective-image.png)
 
 ## Manifesto
 
