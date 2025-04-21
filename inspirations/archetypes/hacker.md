@@ -1,5 +1,5 @@
-# hacker culture
-Tags: [[inspiration]]
+#archetype
+# Hacker Culture
 
 ![hacker-banner](https://1960sdaysofrage.wordpress.com/wp-content/uploads/2022/04/binary-code-greenjpg.jpg?w=640)
 

@@ -1,5 +1,5 @@
+#example-tag1 #example-tag2 
 # {{title}}
-Tags: [[inspiration]]
 
 ![{{title}}-banner]()
 

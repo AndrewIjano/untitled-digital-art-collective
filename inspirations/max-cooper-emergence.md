@@ -1,5 +1,6 @@
-# max-cooper-emergence
-Tags: [[inspiration]]
+#inspiration
+# Max Cooper - Emergence
+
 
 ![max-cooper-emergence](https://i.ytimg.com/vi/_7wKjTf_RlI/maxresdefault.jpg)
 
