@@ -1,5 +1,5 @@
 # cubratron
-Tags: [[inspiration]]
+#inspiration
 
 ![cubratron-banner](https://i.pinimg.com/736x/7b/07/d4/7b07d4cd5abdc3520f6837325c04023d.jpg)
 

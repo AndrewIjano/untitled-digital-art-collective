@@ -10,7 +10,3 @@
 
 3. We want to leave behind more than just trails of data. Therefore, we enhance the physical world with our expression.
 
-## Links
-- [[inspiration]]
-- [[meeting]]
-

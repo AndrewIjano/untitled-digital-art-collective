@@ -1,4 +1,4 @@
-#inspiration
+#Music #inspiration
 # Virtual Self
 
 ![virtual-self-banner](https://virtualself.co/assets/meta/cover.jpg)

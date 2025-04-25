@@ -1,6 +1,6 @@
 
+#inspiration
 # conways-game-of-life
-Tags: [[inspiration]]
 
 ![game-of-life-banner](https://assetsio.gnwcdn.com/0_i4NRQkJRLh_21WNN.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp)
 

@@ -1,5 +1,5 @@
+#inspiration 
 # ghost-in-the-shell
-Tags: [[inspiration]]
 
 ![ghost-in-the-shell-banner](https://images.theconversation.com/files/165928/original/file-20170419-2431-1atmece.png?ixlib=rb-4.1.0&q=45&auto=format&w=926&fit=clip)
 

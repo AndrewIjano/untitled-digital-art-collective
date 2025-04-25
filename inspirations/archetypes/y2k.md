@@ -12,3 +12,6 @@ The y2k aesthetic is the aesthetic of the technology and media that was present 
 
 
 [Aesthetics wiki page](https://aesthetics.fandom.com/wiki/Y2K)
+
+## External Links
+- [Artificial nostalgia: behind the trending PS2 filter](https://sabukaru.online/articles/artificial-nostalgia-behind-the-trending-ps2-filter)
