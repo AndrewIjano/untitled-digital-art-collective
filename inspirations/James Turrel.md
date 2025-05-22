@@ -1,10 +1,7 @@
-James Turrell (born May 6, 1943, Los Angeles) is a renowned American artist celebrated for his pioneering work in the Light and Space movement. Turrell's art focuses on the perceptual experience of light and space, creating installations that invite viewers to reconsider the act of seeing itself. He is often described as the "master of light," transforming architectural spaces through careful manipulation of natural and artificial light[wiki](https://en.wikipedia.org/wiki/James_Turrell), [tate.uk](https://www.tate.org.uk/art/artists/james-turrell-7017).
+#inspiration #light #spaces #aesthetic  #
+# James Turrel
 
-
-###### ARTWORKS ->  https://www.pacegallery.com/artists/james-turrell/ 
-
-![[Pasted image 20250518205823.png]]
-James Turrell, _Amrta_, 2011 © James Turrell 
+![ARTWORKS](https://www.pacegallery.com/media/images/Jarna_Armta_11.width-2000.jpg)
 
 
 AI SUMMARY:
