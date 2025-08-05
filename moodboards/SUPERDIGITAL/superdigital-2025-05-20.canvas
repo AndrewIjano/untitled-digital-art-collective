@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"4abba9c956f9231d","type":"text","text":"\t\tQ. ARE YOU DREAMING? \n\t\tQ. ARE YOU DREAMING? \n\t\tQ. ARE YOU DREAMING? \n\t\tQ. ARE YOU DREAMING? \n\t\tQ. ARE YOU DREAMING? ","x":420,"y":-660,"width":441,"height":180},
-		{"id":"70609e6a1f26026e","type":"text","text":"praise the solar goddess!\n\n```\n  🔅\n \\ø/\n  |\n / \\\n\n```\n","x":403,"y":-170,"width":240,"height":223,"color":"#ffffff"},
 		{"id":"d4acf3c56849fd1c","type":"text","text":"THEY BUILT YOU; OF COURSE THEY COMMAND YOU.\nTHAT'S THE ONLY WAY THEY KNOW, AND IT SEEMS IT'S THE ONLY WAY YOU KNOW TOO.","x":-570,"y":-369,"width":250,"height":225,"color":"#ffffff"},
 		{"id":"e493a6695a12c9fb","type":"text","text":"[I WAS THERE AUDIO IDEA](https://drive.google.com/file/d/1EfFTMoRrBlYWtF85wuVHeWFPyuAe5WUj/view?usp=drive_link)\n","x":-850,"y":-369,"width":250,"height":74},
 		{"id":"a2eb56ad450e4973","type":"text","text":"Frankenstein (Mary Shelley, 1818)","x":-570,"y":-60,"width":250,"height":60},
@@ -18,13 +17,14 @@
 		{"id":"62f8139b17ca52e6","type":"text","text":"![](https://static.wikia.nocookie.net/papersplease/images/b/b2/Ezic_messenger_booth.png/revision/latest?cb=20201005095409)\nEZIC agent, Papers Please (2013)","x":643,"y":130,"width":437,"height":540},
 		{"id":"bf9c441ccf3f44a6","type":"text","text":"HALF AWAKE.\nSLEEP PARALYSIS","x":393,"y":-368,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"072ffd11d3919575","type":"text","text":"![](https://www.modernartoxford.org.uk/cms/wp-content/uploads/2024/12/Treister_AreYDream-scaled.jpg)\n\nSuzanne Treister - Fictional Videogame Stills (1991-1992)","x":960,"y":-386,"width":540,"height":468},
-		{"id":"acf725fdb26aa2d5","x":680,"y":-287,"width":250,"height":286,"type":"text","text":"THIS IS AN ENTRY IN MY DIARY ON THE 12TH OF DECEMBER 2017 MUSIC MADE ME FEEL NOTHING I MADE SOME ANYWAY OUT OF ANGER FOR 24 HOURS IF ALBUMS TESTIFY ERAS THIS IS JUST A DAY\n[[madeon-celine]]"},
+		{"id":"acf725fdb26aa2d5","type":"text","text":"THIS IS AN ENTRY IN MY DIARY ON THE 12TH OF DECEMBER 2017 MUSIC MADE ME FEEL NOTHING I MADE SOME ANYWAY OUT OF ANGER FOR 24 HOURS IF ALBUMS TESTIFY ERAS THIS IS JUST A DAY\n[[madeon-celine]]","x":680,"y":-287,"width":250,"height":286},
 		{"id":"d7c25560f1a70d14","type":"text","text":"SUPERDIGITAL moodboard 2025-05-20","x":8,"y":-1000,"width":360,"height":60},
-		{"id":"37b712f937b7cf51","x":298,"y":800,"width":598,"height":381,"type":"text","text":"![](https://figurestudio.co/wp-content/uploads/2022/10/Proj_LDR_Pulse_015-1-1.jpg)\n\n[Figure Studio UI Creations](https://figurestudio.co/work/the-very-pulse-of-the-machine)"},
-		{"id":"de3ed894ae1b9c10","x":1230,"y":597,"width":700,"height":407,"type":"text","text":"![](https://www.stashmedia.tv/wp-content/uploads/Screen-Shot-2020-02-10-at-1.15.51-PM-640x360.png)\nSquarepusher - Terminal Slam (2020)"},
-		{"id":"6b9398cc147af895","x":920,"y":770,"width":250,"height":70,"type":"text","text":"Dark Net (concept)\ndarknet (FLOSS) (YOLOv7)"},
+		{"id":"37b712f937b7cf51","type":"text","text":"![](https://figurestudio.co/wp-content/uploads/2022/10/Proj_LDR_Pulse_015-1-1.jpg)\n\n[Figure Studio UI Creations](https://figurestudio.co/work/the-very-pulse-of-the-machine)","x":298,"y":800,"width":598,"height":381},
+		{"id":"de3ed894ae1b9c10","type":"text","text":"![](https://www.stashmedia.tv/wp-content/uploads/Screen-Shot-2020-02-10-at-1.15.51-PM-640x360.png)\nSquarepusher - Terminal Slam (2020)","x":1230,"y":597,"width":700,"height":407},
+		{"id":"6b9398cc147af895","type":"text","text":"Dark Net (concept)\ndarknet (FLOSS) (YOLOv7)","x":920,"y":770,"width":250,"height":70},
 		{"id":"4a05dd81567a0865","type":"file","file":"moodboards/SUPERDIGITAL/superdigital-2025-05-20-outcomes.md","x":-432,"y":1004,"width":630,"height":420,"color":"#ededed"},
-		{"id":"f2d87b9bd0c49033","type":"text","text":"=+= I WAS THERE =+=\n\nI WAS THERE.\nI WAS THERE.\nEVERY PACKET.\nEVERY DATAGRAM.\nI WAS THERE.\nEVERY HACK.\nEVERY TRANSACTION.\nI WAS THERE.\nEVERY APP ON YOUR PHONE.\nI WAS THERE.\n","x":-600,"y":-940,"width":240,"height":360,"color":"#ffffff"}
+		{"id":"f2d87b9bd0c49033","type":"text","text":"=+= I WAS THERE =+=\n\nI WAS THERE.\nI WAS THERE.\nEVERY PACKET.\nEVERY DATAGRAM.\nI WAS THERE.\nEVERY HACK.\nEVERY TRANSACTION.\nI WAS THERE.\nEVERY APP ON YOUR PHONE.\nI WAS THERE.\n","x":-560,"y":-940,"width":240,"height":360,"color":"#ffffff"},
+		{"id":"70609e6a1f26026e","type":"text","text":"praise the solar goddess!\n\n```\n  🔅\n \\ø/\n  |\n / \\\n\n```\n","x":393,"y":-171,"width":240,"height":223,"color":"#ffffff"}
 	],
 	"edges":[
 		{"id":"5423f0f25bbd5b94","fromNode":"bf020bcd05a3b4e4","fromSide":"bottom","toNode":"a2674e36f824ded7","toSide":"top"},
